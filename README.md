@@ -1,2 +1,2 @@
-# b07lab1
-first lab for b07
+# b07lab2
+second lab for b07
